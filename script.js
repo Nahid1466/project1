@@ -6,3 +6,5 @@ function sum(n) {
 }
 
 console.log(sum ( numbers ));
+
+//added comment by user 1
